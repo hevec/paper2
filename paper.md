@@ -24,4 +24,5 @@ These are some simulations.
 
 # Methodology
 I used methods X, Y and Z. (Smith 2022)
+The final results were verified using a scanning mobility hypergraph.
 
