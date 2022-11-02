@@ -3,6 +3,7 @@ This is my title
 
 # Author
 Hattie
+Harriet
 
 # Introduction
 This is nonsense. But it is my nonsense.
