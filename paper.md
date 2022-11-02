@@ -22,3 +22,6 @@ Now Eve is added, we can delve into this with simulations.
 # Simulations
 These are some simulations.
 
+# Methodology
+I used methods X, Y and Z. (Smith 2022)
+
